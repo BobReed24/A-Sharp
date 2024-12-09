@@ -28,3 +28,5 @@
 - Current avg fps shows 285 fps with A-Sharp enabled.
 ## Disclamer
 - No A-Sharp is NOT fake in fact all current tests are REAL. No hypotheticals as it may seem these are just hypotheticals
+- A Caseohplex is 10 * 10^(10^(10^(10^(10^(10^(10^(10^(10^(10^10))))))))))))
+
